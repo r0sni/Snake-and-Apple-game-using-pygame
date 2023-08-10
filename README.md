@@ -9,10 +9,6 @@ This repository contains the code and assets for a simple Snake and Apple game, 
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
 
 ## Introduction
 
